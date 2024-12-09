@@ -1,0 +1,10 @@
+[package]
+name = "Rust-Projects"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "Rust-Projects"
+path = "main.rs"
